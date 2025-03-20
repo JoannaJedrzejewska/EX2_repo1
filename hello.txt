@@ -2,4 +2,4 @@ some text
 
 some changes added in RStudio
 
-come changes added in GitHub
+some changes added in GitHub
